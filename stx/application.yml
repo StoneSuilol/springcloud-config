@@ -1,3 +1,4 @@
 foo: foo version 1
 demo:
-  message: Hello Spring Config
+  messageA: Hello Spring Config
+  messageB: Hello Spring Config
